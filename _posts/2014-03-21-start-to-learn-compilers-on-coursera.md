@@ -1,3 +1,5 @@
+---
 layout: post
-title: Demo post -------------
+title: Demo post 
+---
 
