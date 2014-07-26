@@ -3,7 +3,17 @@ layout: post
 title: 课堂笔记01-03：The economy of programming languages
 ---
 
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
+{% highlight java linenos %}
+public void static main(String[] args) {
+    System.out.println("hello world")
+}
+{% endhighlight %}
 
    * why are there so many programming languages?
 
